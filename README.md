@@ -80,7 +80,7 @@ Upon running the program:
 
 ## 📁 Project Structure
 
-lexical-analyzer/ │ ├── lexer.py # Main program containing the lexer class and loop ├── input.txt # Example input file with lexemes └── README.md # Project description and usage
+lexical-analyzer/ │ ├── lexer.py # Main program containing the lexer class and loop └── README.md # Project description and usage
 
 
 ---
