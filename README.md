@@ -67,7 +67,6 @@ x
 2. Add your input file (e.g., input.txt) to the folder.
 
 3. Run the program:
-
 	python lexer.py
 
 4. Follow the menu prompts.
