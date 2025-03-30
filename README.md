@@ -68,7 +68,7 @@ x
 
 3. Run the program:
 
-python lexer.py
+	python lexer.py
 
 4. Follow the menu prompts.
 
